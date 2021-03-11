@@ -10,7 +10,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [React-Native](https://reactnative.dev/)
 - [JavaScript](https://www.javascript.com/)
 - [VS Code](https://code.visualstudio.com/)
-- -[Expo](https://expo.io/)
+- [Expo](https://expo.io/)
 
 ## :information_source: Como Instalar
 Para clonar essa aplicação você precisará do [Git](https://git-scm.com) instalado em seu computador.
