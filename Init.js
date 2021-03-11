@@ -19,7 +19,7 @@ export default function Init({navigation}) {
          <Sigla><SiglaTexto>CV</SiglaTexto></Sigla>
          <Dados>
           <Nome>CESAR VARGAS DOS SANTOS</Nome>
-          <Conta>915239-3</Conta>
+          <Conta>123456-7</Conta>
          </Dados>
 
          <Button style={styles.botao_trocar} mode='Outlined'>
