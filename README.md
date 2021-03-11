@@ -22,8 +22,6 @@ $ expo install
 # Clonar o repositório
 $ git clone https://github.com/altobellibm/CEDERJ_2020_DANIEL_VARGAS_CESAR_SANTOS
 
-
-
 # Rodar a aplicação
 $ expo start
 
