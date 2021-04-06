@@ -20,7 +20,7 @@ Para clonar essa aplicação você precisará do [Git](https://git-scm.com) inst
 $ expo install
 
 # Clonar o repositório
-$ git clone https://github.com/altobellibm/CEDERJ_2020_DANIEL_VARGAS_CESAR_SANTOS
+$ git clone https://github.com/cesarzxk/Inter-interface
 
 # Rodar a aplicação
 $ expo start
